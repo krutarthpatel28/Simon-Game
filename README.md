@@ -2,6 +2,9 @@
 
 Welcome to the **Simon Game**, a modern version of the classic memory game. Test your memory by repeating the pattern of button flashes in the correct sequence. Each level gets progressively more challenging!
 
+## Link to check out game
+https://krutarthpatel28.github.io/Simon-Game/
+
 ## 💡 How to Play:
 1. Press any key to start the game.
 2. Watch the buttons flash in a sequence.
